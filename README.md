@@ -1,0 +1,5 @@
+# printf Function
+## The secrets of printf Paper.
+printf is the C language function to do format-ted printing. The same function is also available inPERL.
+ This paper explains how printf
+ works, andhow to design the proper formatting speciﬁcation forany occasion
